@@ -6,8 +6,9 @@
 //
 
 #import <UIKit/UIKit.h>
+#import <APMobileFramework/APMobileFramework.h>
 
-@interface ViewController : UIViewController
+@interface ViewController : DTViewController
 
 
 @end
